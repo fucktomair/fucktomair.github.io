@@ -1035,7 +1035,7 @@ section.lazy-placeholder:after {
 }
 .cid-s5umtEHpof {
   padding-top: 60px;
-  padding-bottom: 105px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-s5umtEHpof .title {
@@ -1053,6 +1053,15 @@ section.lazy-placeholder:after {
 }
 .cid-s5umtEHpof textarea.form-control {
   min-height: 188px;
+}
+.cid-s5upyAkyVA {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-s5upyAkyVA .mbr-text,
+.cid-s5upyAkyVA blockquote {
+  color: #767676;
 }
 .cid-s5u593pDNA {
   padding-top: 30px;
